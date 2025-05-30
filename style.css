@@ -1,43 +1,43 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 50;
+    padding: 50;
 }
 
 .cabecalho{
     background-color:black;
-    color: aquamarine;
+    color: rgb(255, 0, 0);
     display: flex;
-    justify-content: space-around;
+    justify-content:space-between;
     display : flex;
-    padding : 100 px 35;
-    font-size: 25px;
+    padding : 500 px 45;
+    font-size: 40px;
 }
 
 
 .cabecalhoListaItem{
     display:inline-block;
-    margin: 250 50px;
-    padding: 150px 100;
-    border-radius: 200;
+    margin: 50 50px;
+    padding: 100px 50;
+    border-radius: 50;
 }
 
 .sobreImagem{
-           width:
+           width: 10px
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#FFFFFF, #FFFFFF);
+        color: rgb(0, 0, 0);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 370px 0;
+       padding: 50px 15px;
 }
 
 .sobreConteudo{
-        width:
+        width: 1200px;
 }
 
 .sobreTitulo{
-         padding: 100px 50px;
+         padding: 10 50px;
 }
